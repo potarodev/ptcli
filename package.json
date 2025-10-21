@@ -1,5 +1,5 @@
 {
-  "name": "ptshell",
+  "name": "ptcli",
   "module": "index.ts",
   "type": "module",
   "private": true,

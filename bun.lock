@@ -2,7 +2,7 @@
   "lockfileVersion": 1,
   "workspaces": {
     "": {
-      "name": "ptshell",
+      "name": "ptcli",
       "dependencies": {
         "minimist": "^1.2.8",
         "zod": "^4.1.12",
