@@ -1,0 +1,16 @@
+{
+  "name": "ptshell",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "minimist": "^1.2.8",
+    "zod": "^4.1.12"
+  }
+}
